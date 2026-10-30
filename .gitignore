@@ -21,6 +21,7 @@ cmake_install.cmake
 *.pyd
 
 data/*.csv
+data/*.xlsx
 data/*.parquet
 data/*.json
 
